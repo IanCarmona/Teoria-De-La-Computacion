@@ -1,0 +1,24 @@
+
+if (CONDICIONAL):
+   if (CONDICIONAL):
+      if (CONDICIONAL):
+         if (CONDICIONAL):
+            if (CONDICIONAL):
+               if (CONDICIONAL):
+                  CODIGO
+   else
+      if (CONDICIONAL):
+         CODIGO
+   else
+      CODIGO
+   else
+      if (CONDICIONAL):
+         CODIGO
+      if (CONDICIONAL):
+      else
+         if (CONDICIONAL):
+            CODIGO
+         else
+            CODIGO
+         else
+            CODIGO

@@ -1,0 +1,13 @@
+Regla aplicada: P -> 1P1
+Regla aplicada: P -> 0P0
+Regla aplicada: P -> 1P1
+Regla aplicada: P -> 1P1
+Regla aplicada: P -> 1P1
+Regla aplicada: P -> 1P1
+Regla aplicada: P -> 0P0
+Regla aplicada: P -> 1P1
+Regla aplicada: P -> 1P1
+Regla aplicada: P -> 0P0
+Regla aplicada: P -> 0
+
+Cadena: 011011110101011110110
